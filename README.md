@@ -7,7 +7,7 @@
 
 ### About Me:
 
-- 👨‍🎓 Student at [UofA University of Alberta](https://www.uit.edu.vn/)
+- 👨‍🎓 Student at [UofA University of Alberta](https://www.ualberta.ca/index.html)
 - 👨🏻‍💻 I want to become a **ML/AI engineer** and **full-stack developer**.
 - 🔭 I'm passionate about **ML/AI**, **Data**, **Web development** .
 
@@ -45,7 +45,7 @@
 </div>
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 👋 Hey there! I'm a third-year computer science student with passionate and curious about learning new things every day. Each day presents me with a fresh opportunity to delve into new coding challenges, unravel complex algorithms, and create innovative solutions. 🚀 My coding adventure kicked off with Python, and ever since, I've been on a mission to learn and advance various coding languages and tools. While I was on the journey, I interacted with ML/AI during my internship at an outsourcing company in the summer of 2023, I fell in love with it. And I decided to go on that path with a mix of Full-stack development. 🌐💻Join me on my journey to develop myself by learning new things every day.
 
 ---
