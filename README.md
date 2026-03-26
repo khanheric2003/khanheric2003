@@ -15,7 +15,7 @@
 
   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:duykhanh.eric@gmail.com)&emsp;
   [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/khanh-bui-a58487232/)&emsp;
-    [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/khanh.eric.1/)
+
 
 ### :hammer_and_wrench: Languages and Tools:
 
